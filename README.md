@@ -56,12 +56,12 @@
 
 ### 热议
 
-* [js文件从Struts2 Action中获取数据全过程](https://www.ppaiss.com/articles/2014/02/10/1566182610778.html)
-* [一个工具类 RequestUtils](https://www.ppaiss.com/articles/2014/07/21/1566182611044.html)
-* [遍历对象的属性和属性值。](https://www.ppaiss.com/articles/2014/02/19/1566182611921.html)
-* [jvm_bind问题解决](https://www.ppaiss.com/articles/2014/02/26/1566182612253.html)
-* [java 反射常用方法](https://www.ppaiss.com/articles/2014/02/27/1566182612694.html)
 * [java判断是window系统还是Linux系统，并获取其IP地址及文件上传](https://www.ppaiss.com/articles/2014/11/06/1566182613436.html)
+* [java 反射常用方法](https://www.ppaiss.com/articles/2014/02/27/1566182612694.html)
+* [jvm_bind问题解决](https://www.ppaiss.com/articles/2014/02/26/1566182612253.html)
+* [遍历对象的属性和属性值。](https://www.ppaiss.com/articles/2014/02/19/1566182611921.html)
+* [一个工具类 RequestUtils](https://www.ppaiss.com/articles/2014/07/21/1566182611044.html)
+* [js文件从Struts2 Action中获取数据全过程](https://www.ppaiss.com/articles/2014/02/10/1566182610778.html)
 * [一个反射将对象转化为sql语句的实例](https://www.ppaiss.com/articles/2014/02/20/1566182614483.html)
 * [如何在tomcat里为多个应用配置不同的访问端口](https://www.ppaiss.com/articles/2014/04/01/1566182615296.html)
 * [update top的使用方法](https://www.ppaiss.com/articles/2014/03/13/1566182599979.html)
