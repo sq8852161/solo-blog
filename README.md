@@ -34,9 +34,9 @@
 ### 热门
 
 * [Struts2从后台传递数据到前台的主要方法和流程](https://www.ppaiss.com/articles/2014/02/10/1566182602524.html)
-* [安装、设置与启动MySql绿色版的方法](https://www.ppaiss.com/articles/2014/03/29/1566182603558.html)
 * [sql中top使用方法](https://www.ppaiss.com/articles/2014/02/23/1566182614053.html)
 * [Eclipse Java注释模板设置详解](https://www.ppaiss.com/articles/2014/04/21/1566182614809.html)
+* [安装、设置与启动MySql绿色版的方法](https://www.ppaiss.com/articles/2014/03/29/1566182603558.html)
 * [关于Spring事务回滚的问题](https://www.ppaiss.com/articles/2014/04/01/1566182607680.html)
 * [jdbctemplate batchUpdate方法。](https://www.ppaiss.com/articles/2014/03/14/1566182605734.html)
 * [工作别太用力!你该学学这5个聪明工作法](https://www.ppaiss.com/articles/2014/04/16/1566182614267.html)
